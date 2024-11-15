@@ -35,5 +35,3 @@ Le projet est actuellement en phase de développement frontend. La structure pri
   - NavBar/
   - Footer/
 
-## Contact
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
